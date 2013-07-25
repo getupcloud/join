@@ -1,7 +1,7 @@
 Junte-se a nós
 ==============
 
-Somos a Getup, uma startup brasileira, provedor de PaaS público baseado em [OpenShift Origin](https://github.com/openshift), rodando nossa estrutura em ambiente Amazon. 
+Somos a Getup, uma startup brasileira, provedor de PaaS baseado em [OpenShift Origin](https://github.com/openshift), rodamos nossa estrutura em ambiente Amazon. 
  
 Trabalhamos em local compartilhado com outra empresa na [Zona Sul de Porto Alegre](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Getup+Cloud&aq=0&oq=getup+cloud&sll=-29.688053,-48.955078&sspn=25.960019,46.538086&vpsrc=0&ie=UTF8&hq=Getup+Cloud&hnear=&ll=-30.1187,-51.239719&spn=0.101564,0.181789&t=m&z=13&iwloc=A&cid=9764247768875011687). Como podem ver pelas [fotos](https://www.facebook.com/media/set/?set=a.195184477230046.49148.193285710753256&type=3), temos um ambiente de trabalho não usual e o incomum do local reflete nossa forma de trabalhar também.
 
@@ -11,7 +11,7 @@ Bom, temos alguns desafios pela frente e precisamos de pessoas dispostas a fazer
 
 Nossos desafios giram em torno de desenvolvimento de novas funcionalidades dentro do OpenShift Origin como  customização do dashboard web, implementações e bug-fixes no core do OpenShift e contribuição para o projeto upstream no github . Também criamos cartridges, escrevemos posts técnicos e  participamos de  diversos eventos, sendo como ouvintes, palestrantes ou patrocinadores. 
  
-Usamos tecnologias como ActiveMQ, MongoDB, muito unix (shell, serviços de rede, SELinux). Todo , ou quase todo o desenvolvimento vai para o github como OSS,  portanto interagimos com varios outros projetos OSS. 
+Usamos tecnologias como ActiveMQ, MongoDB, muito unix (shell, serviços de rede, SELinux). Todo, ou quase todo o desenvolvimento vai para o github como OSS,  portanto interagimos com varios outros projetos OSS. 
  
 É preciso inglês fluente, espírito fuçador, boas doses de "sevirol" e vontade de fazer parte de uma startup brasileira e promissora como o "Funcionário No 1".
 
@@ -39,7 +39,7 @@ Show me, don't tell
 
 OK, você acredita que pode nos ajudar e quer fazer parte do nosso time.
 
-Antes de mais nada, não nos envie seu CV (obrigado :P). Basta responder abaixo e enviar para [join@getupcloud.com](mailto:join@getupcloud.com)
+Antes de mais nada, não nos envie seu CV (obrigado :P). Nos responda as questões abaixo e envie para [join@getupcloud.com](mailto:join@getupcloud.com)
 
 ```
 * O que você sabe sobre nosso negócio, sobre o mercado que atuamos?
