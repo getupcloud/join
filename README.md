@@ -20,7 +20,7 @@ Por que a Getup existe?
 
 Definitivamente somos diferentes dos modelos tradicionais de hospedagem. Nossa plataforma oferece aos nossos usuários escalabilidade automática . Por aqui não falamos em servidores , mas sim em aplicações. 
 
-Criamos a Getup com duas coisas em mente. Primeiro, facilitar a vida dos desenvolvedores, que não deveriam perder tempo com infra estrutura e servidores . Segundo, mas não menos importante, é a questão dos famosos picos de acesso, aquela enxurrada de visitas e que muitas vezes tiram o site do ar.
+Criamos a Getup com duas coisas em mente. Primeiro, facilitar a vida dos desenvolvedores, que não deveriam perder tempo com infraestrutura e servidores . Segundo, mas não menos importante, é a questão dos famosos picos de acesso, aquela enxurrada de visitas e que muitas vezes tiram o site do ar.
 
 Remuneração e benefícios.
 =========================
