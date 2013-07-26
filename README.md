@@ -48,7 +48,7 @@ Antes de mais nada, não nos envie seu CV (obrigado :P). Nos responda as questõ
 
 Mostre-nos quem você é:
  
-  * Github /BitBucket/SourceForge:
+  * Github/BitBucket/SourceForge:
   * Twitter :
   * Facebook:
   * Linkedin:
