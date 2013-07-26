@@ -11,7 +11,7 @@ Bom, temos alguns desafios pela frente e precisamos de pessoas dispostas a fazer
 
 Nossos desafios giram em torno de desenvolvimento de novas funcionalidades dentro do OpenShift Origin como  customização do dashboard web, implementações e bug-fixes no core do OpenShift e contribuição para o projeto upstream no github . Também criamos cartridges, escrevemos posts técnicos e  participamos de  diversos eventos, sendo como ouvintes, palestrantes ou patrocinadores. 
  
-Usamos tecnologias como ActiveMQ, MongoDB, muito unix (shell, serviços de rede, SELinux). Todo, ou quase todo o desenvolvimento vai para o github como OSS,  portanto interagimos com varios outros projetos OSS. 
+Usamos tecnologias como ActiveMQ, MongoDB, muito unix (shell, serviços de rede, SELinux). Todo, ou quase todo o desenvolvimento vai para o github como OSS,  portanto interagimos com vários outros projetos OSS. 
  
 É preciso inglês fluente, espírito fuçador, boas doses de "sevirol" e vontade de fazer parte de uma startup brasileira e promissora como o "Funcionário No 1".
 
