@@ -43,8 +43,8 @@ Antes de mais nada, não nos envie seu CV (obrigado :P). Nos responda as questõ
 
 ```
 * O que você sabe sobre nosso negócio, sobre o mercado que atuamos?
-* Por que você acredita que o que fazemos é importante para nossos clientes?
-* Qual o aspecto favorito para você do nosso negócio e por que?
+* Por quê você acredita que o que fazemos é importante para nossos clientes?
+* Qual o aspecto favorito do nosso produto para você e por quê?
 
 Mostre-nos quem você é:
  
