@@ -4,6 +4,7 @@ Junte-se a nós
 Somos a [Getup](http://getupcloud.com), uma startup brasileira, provedor de PaaS baseado em [OpenShift Origin](https://github.com/openshift), rodamos nossa estrutura em ambiente Amazon. 
  
 Trabalhamos em local compartilhado com outra empresa na [Zona Sul de Porto Alegre](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Getup+Cloud&aq=0&oq=getup+cloud&sll=-29.688053,-48.955078&sspn=25.960019,46.538086&vpsrc=0&ie=UTF8&hq=Getup+Cloud&hnear=&ll=-30.1187,-51.239719&spn=0.101564,0.181789&t=m&z=13&iwloc=A&cid=9764247768875011687). Como podem ver pelas [fotos](https://www.facebook.com/media/set/?set=a.195184477230046.49148.193285710753256&type=3), temos um ambiente de trabalho não usual e o incomum do local reflete nossa forma de trabalhar também.
+Embora tenhamos uma sede, fazer parte da Getup não está limitado a uma condição geográfica, você pode fazer parte estando em qq lugar do Brasil ou no mundo - pq não?
 
 Mas e qual a razão deste artigo?
  
@@ -33,6 +34,7 @@ Claro que não vamos deixá-lo no escuro, então seguem algumas coisas que pensa
 * Remuneração: quanto você acha que vale seu trabalho? sério, nos diga.
 * Plano de saúde, dentário: vamos implementar, ainda não temos
 * VT / VR: si, por supuesto 
+* Homework / co-working
 
 Show me, don't tell
 ===================
