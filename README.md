@@ -4,22 +4,22 @@ Junte-se a nós
 Somos a [Getup](http://getupcloud.com), uma startup brasileira, provedor de PaaS baseado em [OpenShift Origin](https://github.com/openshift), rodamos nossa estrutura em ambiente Amazon. 
  
 
-Mas e qual a razão deste artigo?
- 
-Bom, temos alguns desafios pela frente e precisamos de pessoas dispostas a fazer parte.
+Temos alguns desafios pela frente e estamos sempre a procura de pessoas extraordinárias para se juntar ao grupo.
 
-Nossos desafios giram em torno de desenvolvimento de novas funcionalidades dentro do OpenShift Origin como  customização do dashboard web, implementações e bug-fixes no core do OpenShift e contribuição para o projeto upstream no github . Também criamos cartridges, escrevemos posts técnicos e  participamos de  diversos eventos, sendo como ouvintes, palestrantes ou patrocinadores. 
+Nossos desafios giram em torno de desenvolvimento de novas funcionalidades dentro do OpenShift Origin como  customização do dashboard web, implementações e bug-fixes no core do OpenShift e contribuição para o projeto upstream no github. Também criamos cartridges, escrevemos posts técnicos e  participamos de  diversos eventos, sendo como ouvintes, palestrantes ou patrocinadores. 
+
+Integrações com outros serviços - Amazon S3, RDS, CDN - que possam facilitar a vida de nossos usuários é algo que buscamos sempre.
  
-Usamos tecnologias como ActiveMQ, MongoDB, muito unix (shell, serviços de rede, SELinux). Todo, ou quase todo o desenvolvimento vai para o github como OSS,  portanto interagimos com vários outros projetos OSS. 
+Usamos tecnologias como ActiveMQ, MongoDB, muito unix (shell, serviços de rede, SELinux). Todo, ou quase todo o desenvolvimento vai para o github como OSS, portanto interagimos com vários outros projetos OSS. 
  
-É preciso inglês fluente, espírito fuçador, boas doses de "sevirol" e vontade de fazer parte de uma startup brasileira e promissora como o "Funcionário No 1".
+É preciso inglês fluente, espírito fuçador, boas doses de "sevirol" e se sentir a vontade em um ambiente de startup.
 
 Por que a Getup existe?
 =======================
 
-Definitivamente somos diferentes dos modelos tradicionais de hospedagem. Nossa plataforma oferece aos nossos usuários escalabilidade automática . Por aqui não falamos em servidores , mas sim em aplicações. 
+Definitivamente somos diferentes dos modelos tradicionais de hospedagem. Nossa plataforma oferece aos nossos usuários escalabilidade automática, não falamos em servidores, mas sim em aplicações. 
 
-Criamos a Getup com duas coisas em mente. Primeiro, facilitar a vida dos desenvolvedores, que não deveriam perder tempo com infraestrutura e servidores . Segundo, mas não menos importante, é a questão dos famosos picos de acesso, aquela enxurrada de visitas e que muitas vezes tiram o site do ar.
+Criamos a Getup com duas coisas em mente. Facilitar a vida dos desenvolvedores, que não deveriam perder tempo com infraestrutura e servidores e resolver a questão dos famosos picos de acesso, aquela enxurrada de visitas responsável por tirar muitos sites do ar - não por aqui.
 
 Remuneração e benefícios.
 =========================
