@@ -24,15 +24,13 @@ Criamos a Getup com duas coisas em mente. Primeiro, facilitar a vida dos desenvo
 Remuneração e benefícios.
 =========================
 
-Lembre-se que é a vaga número 1 da Getup, portanto não temos um plano totalmente elaborado. Isso quer dizer que você pode se sentir perfeitamente a vontade para sugerir um formato que seja bom para você, sendo bom pra nós também, pq não?!
-
-Claro que não vamos deixá-lo no escuro, então seguem algumas coisas que pensamos:
+Essa é apenas uma ideia de como poderá ser nossa relação com você. Isso quer dizer que você pode se sentir perfeitamente a vontade para sugerir um formato diferente!
  
 * CLT ou PJ - se você preferir PJ, OK pra nós, senão faremos CLT
 * Remuneração: quanto você acha que vale seu trabalho? sério, nos diga.
 * Plano de saúde, dentário: vamos implementar, ainda não temos
 * VT / VR: si, por supuesto 
-* Homework / co-working
+* Homework / co-working / na sede da Getup | depende onde você está
 
 Show me, don't tell
 ===================
